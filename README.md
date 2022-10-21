@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZIHAD22
 - 👀 I’m interested in learning software development 
-- 🌱 I’m currently learning a famous JavaScript library react js
+- 🌱 I’m currently learning a famous JavaScript library next js
 - 📫 If you have a question! How to reach me ? than mail me on mdzihad2244@gmail.com
 
 <!---
