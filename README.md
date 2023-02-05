@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZIHAD22
+- 👋 Hi, I’m Zihad
 - 👀 I’m interested in learning AI 
 - 🌱 I’m currently learning Python
 - 📫 If you have a question! How to reach me ? than mail me on mdzihad2244@gmail.com
