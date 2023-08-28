@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zihad
 - 👀 I’m interested in learning AI 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React Native
 - 📫 If you have a question! How to reach me ? than mail me on mdzihad.dev@gmail.com
 
 <!---
