@@ -46,14 +46,14 @@ From user authentication with **Firebase** to seamless payment integration using
 
 ## 📊 GitHub Stats
 
-<div align="center">
+[<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZIHAD22&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZIHAD22&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIHAD22&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
+</div>](https://streak-stats.demolab.com/?user=ZIHAD22&theme=radical&hide_border=true)
 
 ---
 
