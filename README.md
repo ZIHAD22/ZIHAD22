@@ -60,7 +60,10 @@ I’m always eager to learn new technologies and refine my craft — because eve
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/></a>
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60"/></a>
-  <a href="https://stripe.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Stripe_logo%2C_revised_2016.svg" width="60"/></a>
+    <a href="https://stripe.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/stripe/635BFF" alt="Stripe" width="60" />
+  </a>
+
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60"/></a>
   <a href="https://redux.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60"/></a>
   <a href="https://typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/></a>
