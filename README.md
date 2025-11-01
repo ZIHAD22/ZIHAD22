@@ -1,4 +1,4 @@
-![banner]([https://github.com/ZIHAD22/ZIHAD22/blob/main/banner.png](https://github.com/ZIHAD22/ZIHAD22/blob/main/md%20kowsar%20ahmad%20zihad.png))
+![banner](https://github.com/ZIHAD22/ZIHAD22/blob/main/md%20kowsar%20ahmad%20zihad.png)
 
 <h1 align="center">Hi 👋, I'm MD ZIHAD</h1>
 
